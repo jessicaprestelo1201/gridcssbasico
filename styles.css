@@ -66,6 +66,9 @@ aside {
     grid-area: aside;
 }
 
+aside p {
+    transform: rotate(-90deg);
+}
 
 footer {
     background-color: rgb(119, 117, 255);
